@@ -1,0 +1,2 @@
+Pillow>=11.0,<13
+pillow-heif>=0.21,<2
