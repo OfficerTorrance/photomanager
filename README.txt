@@ -1,5 +1,62 @@
 PHOTOMANAGER - WINDOWS 11
 =========================
+# PhotoManager – Photo & Video Management Made Easy
+
+**PhotoManager** is a lightweight, user-friendly Windows application designed to simplify the organisation and processing of large photo and video collections.
+
+Whether you're transferring thousands of photos from an iPhone, consolidating files from multiple folders or preparing images for long-term storage, PhotoManager automates repetitive tasks while keeping you in control.
+
+### Key Features
+
+**Image Conversion & Resizing**
+- Convert HEIC, HEIF, PNG, TIFF and other supported image formats to JPG.
+- Automatically resize images by a configurable percentage (60% reduction by default).
+- Adjust JPEG compression quality to balance file size and image quality.
+- Process thousands of images in a single batch.
+
+**Video Support**
+- Include MOV, MP4 and M4V video files.
+- Copy videos without re-encoding or reducing quality.
+- Extract recording dates from available metadata.
+- Use file modification dates as a fallback when recording metadata is unavailable.
+
+**Smart File Organisation**
+- Automatically scan folders and subfolders.
+- Consolidate all processed files into one destination folder or preserve the original folder structure.
+- Rename photos and videos using their capture dates.
+- Prevent filename conflicts and optionally skip existing files.
+- Identify duplicate source files using SHA-256 checksums.
+- Recognise related Live Photo image and video components.
+
+**Preview & Processing**
+- Preview planned operations before processing.
+- Monitor progress throughout batch operations.
+- Keep original files untouched.
+
+**Detailed Reports**
+- View a clear processing summary.
+- Identify successfully processed, skipped and duplicate files.
+- Review missing metadata and processing errors.
+- Export detailed CSV and TXT reports for troubleshooting.
+
+### Designed for Simplicity
+
+PhotoManager provides an intuitive graphical interface, making advanced batch processing accessible without command-line experience.
+
+**Platform:** Windows 11  
+**Interface language:** English  
+**Default image reduction:** 60% (width and height)  
+**Default JPEG quality:** 85%  
+**Video processing:** Copy without re-encoding
+
+### Ideal For
+
+- Backing up and organising iPhone photo libraries.
+- Converting HEIC images into universally compatible JPG files.
+- Reducing image dimensions to save storage space.
+- Consolidating photos and videos from multiple folders.
+- Organising large collections by capture date.
+- Identifying duplicates and avoiding unnecessary reprocessing.
 
 INSTALL AND START
 1. Extract this ZIP file to a normal local folder.
